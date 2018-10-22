@@ -1,0 +1,13 @@
+body{
+
+   background: url("./img/bg.jpg") no-repeat center center / cover;
+}
+
+hr{
+    height: 1px;
+    background-color: #A9A9A9
+}
+p{
+    padding-left: 1em;
+}
+
